@@ -2,9 +2,9 @@
 
 2015.3.21
 生駒市版データへ更新
-佐藤拓也（Takuya Sato）
-生駒孝夫（Takao Ikoma）
-猪上博史（Hirofumi Inoue）
+- 佐藤拓也（Takuya Sato）
+- 生駒孝夫（Takao Ikoma）
+- 猪上博史（Hirofumi Inoue）
 
 ========
 
