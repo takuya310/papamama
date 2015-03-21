@@ -29,7 +29,7 @@
                 "Proof": "",
                 "Shanai": "",
                 "url": "http://www.city.ikoma.lg.jp/kashitsu/04600/09/01.html",
-                "Vacancy": "null",
+                "Vacancy": "N",
                 "VacancyDate": ""
             },
             "geometry": {
@@ -68,7 +68,7 @@
                 "Proof": "",
                 "Shanai": "",
                 "url": "http://www.city.ikoma.lg.jp/kashitsu/04600/06/01.html",
-                "Vacancy": "null",
+                "Vacancy": "N",
                 "VacancyDate": ""
             },
             "geometry": {
@@ -107,7 +107,7 @@
                 "Proof": "",
                 "Shanai": "",
                 "url": "http://www.city.ikoma.lg.jp/kashitsu/04600/07/01.html",
-                "Vacancy": "null",
+                "Vacancy": "N",
                 "VacancyDate": ""
             },
             "geometry": {
@@ -146,7 +146,7 @@
                 "Proof": "",
                 "Shanai": "",
                 "url": "http://www.city.ikoma.lg.jp/kashitsu/04600/08/01.html",
-                "Vacancy": "null",
+                "Vacancy": "N",
                 "VacancyDate": ""
             },
             "geometry": {
@@ -185,7 +185,7 @@
                 "Proof": "",
                 "Shanai": "",
                 "url": "http://asukano.hozanji-wel.org/",
-                "Vacancy": "null",
+                "Vacancy": "N",
                 "VacancyDate": ""
             },
             "geometry": {
@@ -224,7 +224,7 @@
                 "Proof": "",
                 "Shanai": "",
                 "url": "http://newho.hozanji-wel.org/",
-                "Vacancy": "null",
+                "Vacancy": "N",
                 "VacancyDate": ""
             },
             "geometry": {
@@ -263,7 +263,7 @@
                 "Proof": "",
                 "Shanai": "",
                 "url": "http://ikoma-hoikuen.hozanji-wel.org/",
-                "Vacancy": "null",
+                "Vacancy": "N",
                 "VacancyDate": ""
             },
             "geometry": {
@@ -302,7 +302,7 @@
                 "Proof": "",
                 "Shanai": "",
                 "url": "http://www.ans.co.jp/n/kitayamato/",
-                "Vacancy": "null",
+                "Vacancy": "N",
                 "VacancyDate": ""
             },
             "geometry": {
@@ -341,7 +341,7 @@
                 "Proof": "",
                 "Shanai": "",
                 "url": "http://www.ans.co.jp/n/shikanodaisaho/",
-                "Vacancy": "null",
+                "Vacancy": "N",
                 "VacancyDate": ""
             },
             "geometry": {
@@ -380,7 +380,7 @@
                 "Proof": "",
                 "Shanai": "",
                 "url": "http://www.valsta.jp/aiduikoma/indextop.htm",
-                "Vacancy": "null",
+                "Vacancy": "N",
                 "VacancyDate": ""
             },
             "geometry": {
@@ -419,7 +419,7 @@
                 "Proof": "",
                 "Shanai": "",
                 "url": "http://hanahoikuen.jp",
-                "Vacancy": "null",
+                "Vacancy": "N",
                 "VacancyDate": ""
             },
             "geometry": {
@@ -458,7 +458,7 @@
                 "Proof": "",
                 "Shanai": "",
                 "url": "http://www.kaguyamakai.com/purehoiku/",
-                "Vacancy": "null",
+                "Vacancy": "N",
                 "VacancyDate": ""
             },
             "geometry": {
@@ -497,7 +497,7 @@
                 "Proof": "",
                 "Shanai": "",
                 "url": "http://www.umihoikuen.jp",
-                "Vacancy": "null",
+                "Vacancy": "N",
                 "VacancyDate": ""
             },
             "geometry": {
@@ -536,7 +536,7 @@
                 "Proof": "",
                 "Shanai": "",
                 "url": "http://www.ans.co.jp/n/mayumi/",
-                "Vacancy": "null",
+                "Vacancy": "N",
                 "VacancyDate": ""
             },
             "geometry": {
@@ -575,7 +575,7 @@
                 "Proof": "",
                 "Shanai": "",
                 "url": "http://valsta.jp/aiduichibu/index.html",
-                "Vacancy": "null",
+                "Vacancy": "N",
                 "VacancyDate": ""
             },
             "geometry": {
@@ -614,7 +614,7 @@
                 "Proof": "",
                 "Shanai": "",
                 "url": "http://www.chidori.or.jp/hoiku_ichibu/",
-                "Vacancy": "null",
+                "Vacancy": "N",
                 "VacancyDate": ""
             },
             "geometry": {
@@ -653,7 +653,7 @@
                 "Proof": "",
                 "Shanai": "",
                 "url": "",
-                "Vacancy": "null",
+                "Vacancy": "N",
                 "VacancyDate": ""
             },
             "geometry": {
@@ -692,7 +692,7 @@
                 "Proof": "",
                 "Shanai": "",
                 "url": "",
-                "Vacancy": "null",
+                "Vacancy": "N",
                 "VacancyDate": ""
             },
             "geometry": {
@@ -728,10 +728,10 @@
                 "Owner": "",
                 "FAX": "",
                 "Ownership": "",
-                "Proof": "",
+                "Proof": "N",
                 "Shanai": "",
                 "url": "http://www12.ocn.ne.jp/~tanpopo1/",
-                "Vacancy": "null",
+                "Vacancy": "N",
                 "VacancyDate": ""
             },
             "geometry": {
@@ -767,10 +767,10 @@
                 "Owner": "",
                 "FAX": "",
                 "Ownership": "",
-                "Proof": "",
+                "Proof": "N",
                 "Shanai": "",
                 "url": "http://www.warabe-gakuen.jp/",
-                "Vacancy": "null",
+                "Vacancy": "N",
                 "VacancyDate": ""
             },
             "geometry": {
@@ -806,10 +806,10 @@
                 "Owner": "",
                 "FAX": "",
                 "Ownership": "",
-                "Proof": "",
+                "Proof": "N",
                 "Shanai": "",
                 "url": "http://www.kinderkids.com/schools/detail/10/",
-                "Vacancy": "null",
+                "Vacancy": "N",
                 "VacancyDate": ""
             },
             "geometry": {
@@ -845,10 +845,10 @@
                 "Owner": "",
                 "FAX": "",
                 "Ownership": "",
-                "Proof": "",
+                "Proof": "N",
                 "Shanai": "",
                 "url": "http://www.kuriokagakuen.ac.jp/kogumaen/",
-                "Vacancy": "null",
+                "Vacancy": "N",
                 "VacancyDate": ""
             },
             "geometry": {
@@ -884,10 +884,10 @@
                 "Owner": "",
                 "FAX": "",
                 "Ownership": "",
-                "Proof": "",
+                "Proof": "N",
                 "Shanai": "",
                 "url": "http://www.r-kusuri.jp/kidsgarden/",
-                "Vacancy": "null",
+                "Vacancy": "N",
                 "VacancyDate": ""
             },
             "geometry": {
@@ -923,10 +923,10 @@
                 "Owner": "",
                 "FAX": "",
                 "Ownership": "",
-                "Proof": "",
+                "Proof": "N",
                 "Shanai": "",
                 "url": "http://e-p-subaru.jp/",
-                "Vacancy": "null",
+                "Vacancy": "N",
                 "VacancyDate": ""
             },
             "geometry": {
@@ -965,7 +965,7 @@
                 "Proof": "",
                 "Shanai": "",
                 "url": "http://www.ed.city.ikoma.nara.jp/netcm/?page_id=76",
-                "Vacancy": "null",
+                "Vacancy": "N",
                 "VacancyDate": ""
             },
             "geometry": {
@@ -1004,7 +1004,7 @@
                 "Proof": "",
                 "Shanai": "",
                 "url": "http://www.ed.city.ikoma.nara.jp/netcm/?page_id=115",
-                "Vacancy": "null",
+                "Vacancy": "N",
                 "VacancyDate": ""
             },
             "geometry": {
@@ -1043,7 +1043,7 @@
                 "Proof": "",
                 "Shanai": "",
                 "url": "http://www.ed.city.ikoma.nara.jp/netcm/?page_id=119",
-                "Vacancy": "null",
+                "Vacancy": "N",
                 "VacancyDate": ""
             },
             "geometry": {
@@ -1082,7 +1082,7 @@
                 "Proof": "",
                 "Shanai": "",
                 "url": "http://www.ed.city.ikoma.nara.jp/netcm/?page_id=118",
-                "Vacancy": "null",
+                "Vacancy": "N",
                 "VacancyDate": ""
             },
             "geometry": {
@@ -1121,7 +1121,7 @@
                 "Proof": "",
                 "Shanai": "",
                 "url": "http://www.ed.city.ikoma.nara.jp/netcm/?page_id=16",
-                "Vacancy": "null",
+                "Vacancy": "N",
                 "VacancyDate": ""
             },
             "geometry": {
@@ -1160,7 +1160,7 @@
                 "Proof": "",
                 "Shanai": "",
                 "url": "http://www.ed.city.ikoma.nara.jp/netcm/?page_id=116",
-                "Vacancy": "null",
+                "Vacancy": "N",
                 "VacancyDate": ""
             },
             "geometry": {
@@ -1199,7 +1199,7 @@
                 "Proof": "",
                 "Shanai": "",
                 "url": "http://www.ed.city.ikoma.nara.jp/netcm/?page_id=18",
-                "Vacancy": "null",
+                "Vacancy": "N",
                 "VacancyDate": ""
             },
             "geometry": {
@@ -1238,7 +1238,7 @@
                 "Proof": "",
                 "Shanai": "",
                 "url": "http://www.ed.city.ikoma.nara.jp/netcm/?page_id=98",
-                "Vacancy": "null",
+                "Vacancy": "N",
                 "VacancyDate": ""
             },
             "geometry": {
@@ -1277,7 +1277,7 @@
                 "Proof": "",
                 "Shanai": "",
                 "url": "http://www.ed.city.ikoma.nara.jp/netcm/?page_id=117",
-                "Vacancy": "null",
+                "Vacancy": "N",
                 "VacancyDate": ""
             },
             "geometry": {
@@ -1316,7 +1316,7 @@
                 "Proof": "",
                 "Shanai": "",
                 "url": "http://nashiyou.jp/prospectus/%E3%82%A8%E3%83%B3%E3%82%BC%E3%83%AB%E5%B9%BC%E7%A8%9A%E5%9C%92/",
-                "Vacancy": "null",
+                "Vacancy": "N",
                 "VacancyDate": ""
             },
             "geometry": {
@@ -1355,7 +1355,7 @@
                 "Proof": "",
                 "Shanai": "",
                 "url": "http://shirayuri-kinder.jp/",
-                "Vacancy": "null",
+                "Vacancy": "N",
                 "VacancyDate": ""
             },
             "geometry": {
@@ -1394,7 +1394,7 @@
                 "Proof": "",
                 "Shanai": "",
                 "url": "http://www.narasaho-c.ac.jp/kinder/ikoma/",
-                "Vacancy": "null",
+                "Vacancy": "N",
                 "VacancyDate": ""
             },
             "geometry": {
@@ -1433,7 +1433,7 @@
                 "Proof": "",
                 "Shanai": "",
                 "url": "http://www.shiraniwadai.ed.jp/",
-                "Vacancy": "null"
+                "Vacancy": "N"
             },
             "geometry": {
                 "type": "Point",
